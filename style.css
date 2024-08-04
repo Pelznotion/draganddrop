@@ -44,8 +44,8 @@ h1{
 .team-member {
   position: relative;
   z-index: 1;
-  min-height: 3.75rem;
-  width: 10rem;
+  min-height: 2.5rem;
+  width: 7.5rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
