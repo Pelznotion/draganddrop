@@ -16,6 +16,7 @@ body {
   height: 100vh;
   width: 100vw;
 }
+
 * {
   margin: 0;
   padding: 0;
@@ -23,7 +24,12 @@ body {
 }
 h1{
   padding-top:2rem;
+  text-align:center;
   
+}
+.coding{
+  font-size:1.2rem;
+  text-align:center;
 }
 #team-members {
   margin: auto;
